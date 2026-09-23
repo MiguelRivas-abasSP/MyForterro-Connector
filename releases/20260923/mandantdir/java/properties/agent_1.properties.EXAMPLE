@@ -1,0 +1,12 @@
+# MyForterro API Global Configuration
+# MyForterro Environment: Integration
+# Customer: abasSP dev
+
+## Agent API URL
+myforterro.agent.name=MFT Integration test agent
+myforterro.agent.timeout.connect=15000
+myforterro.agent.timeout.read=240000
+
+myforterro.agent.url=https://integration-myforterro-api.fcs-dev.eks.forterro.com
+myforterro.agent.endpoint=/v1/ai/agents/[agent_id]/run
+myforterro.agent.id=a1f8d15e-7419-45XXX

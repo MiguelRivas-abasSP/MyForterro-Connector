@@ -1,0 +1,4 @@
+# Add these lines to the original ~/java/mandant.classpath
+java/projects/MyForterro
+java/projects/MyForterro/classes
+java/projects/MyForterro/lib/gson-2.13.2.jar

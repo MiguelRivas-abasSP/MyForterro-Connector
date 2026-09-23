@@ -1,0 +1,16 @@
+# MyForterro API Global Configuration
+# MyForterro Environment: Integration
+# Customer: abasSP dev
+
+## Authentication
+myforterro.token.url=https://integration-myforterro-core.fcs-dev.eks.forterro.com/connect/token
+
+# Application credentials
+myforterro.client.id=55fac29f-47ec-XXX
+myforterro.client.secret=jWBcRPpixqXXX
+myforterro.target.application=107b0XXX
+myforterro.target.tenant=e117ff39-3XXX
+
+# Files upload URL
+myforterro.files.upload.url=https://integration-myforterro-api.fcs-dev.eks.forterro.com
+myforterro.files.upload.endpoint=/ai/v2/files
